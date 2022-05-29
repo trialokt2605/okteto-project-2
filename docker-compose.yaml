@@ -1,5 +1,5 @@
 services:
-  areyouok:
+  oke_mantep:
     build: .
     ports:
-      - 80:80
+      - 575:575
