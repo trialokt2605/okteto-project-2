@@ -1,5 +1,5 @@
 services:
-  oke_mantep:
+  okemantep:
     build: .
     ports:
       - 575:575
